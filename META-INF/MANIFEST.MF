@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Premain-Class: com.dudebro.trvthnvker.agent.AgentMain
+Java-Version: 8
+Agent-Class: com.dudebro.trvthnvker.agent.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Build-Jdk-Spec: 1.8
+Created-By: Maven JAR Plugin 3.5.1
+

@@ -1,0 +1,41 @@
+# maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# jvm logs
+hs_err_pid*
+replay_pid*
+*.hprof
+*.log
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# vscode
+.vscode/
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
