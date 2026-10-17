@@ -4,8 +4,8 @@ qol java agent that dewokes your base game and mods, dewokes the following
 - splash text
 - anything that relies on pridelib
 
-and optionally removes
-- telemetry
+removes telemetry, and optionally removes
+- chat signing
 - realms
 
 pass as a parameter
